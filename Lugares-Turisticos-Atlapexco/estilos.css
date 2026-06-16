@@ -1,1 +1,0 @@
-body{background:#BFFF00;font-family:Arial;} .titulo h1{animation:m 10s infinite alternate;} @keyframes m{from{transform:translateX(0)}to{transform:translateX(50%)}} table{width:100%;background:white;border-collapse:collapse;}th,td{border:1px solid green;padding:10px;}
